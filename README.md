@@ -19,7 +19,7 @@ A website presenting my projects.
 
 # 📍 Access
 
-* The website is online at the address : **[angeluriot.com](https://www.angeluriot.com/)**.
+* The website is online at the address : **[https://b-mahdj.github.io/Portfolio/](https://b-mahdj.github.io/Portfolio/)**.
 
 <br/>
 
