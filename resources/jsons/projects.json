@@ -1,0 +1,186 @@
+{
+	"projects":
+	[
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "Genie",
+			"description": "This project goal is to help people summarize research papers. It was created during a 2 day Hackathon 'StartUp AI Hackathon' organized by NextGrid & New Native in which we won.",
+			"tags":
+			[
+				{ "name": "Python", "url": "https://www.python.org/" },
+				{ "name": "Flask", "url": "https://flask.palletsprojects.com/en/stable/" },
+				{ "name": "OpenAI API", "url": "https://openai.com/api/" },
+				{ "name": "GitHub Actions", "url": "https://github.com/features/actions" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/Genie_Website",
+				"https://github.com/B-Mahdj/Genie_Website",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/genie_website.webp",
+			"logo": "resources/svgs/projects/genie_website.svg",
+			"categories": ["Personal", "AI"]
+		},
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "CandyMachine Tracker",
+			"description": "The goal of this project was to track on the Solana blockchain the creation of new 'CandyMachine' which are 'entities' in the blockchain that are able to create NFTs.",
+			"tags":
+			[
+				{ "name": "TypeScript", "url": "https://www.typescriptlang.org/" },
+				{ "name": "NodeJS", "url": "https://nodejs.org/en/" },
+				{ "name": "Solana/Web3.js", "url": "https://solana.com/fr/docs/clients/javascript" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/Candy_Machine_Tracker",
+				"https://github.com/B-Mahdj/Candy_Machine_Tracker",
+				"none"
+			],
+			"video": "resources/videos/projects/candy_machine_tracker.mp4",
+			"image": "resources/images/projects/candy_machine_tracker.webp",
+			"logo": "resources/svgs/projects/lol_rush.svg",
+			"categories": ["Personal"]
+		},
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "OpenSea Floor Price Tracker",
+			"description": "This Discord bot fetch the floor price of a collection using OpenSea API and update the username of the Discord bot so that people may easily track their favorite collections floor price",
+			"tags":
+			[
+				{ "name": "TypeScript", "url": "https://www.typescriptlang.org/" },
+				{ "name": "NodeJS", "url": "https://nodejs.org/en/" },
+				{ "name": "Solana/Web3.js", "url": "https://solana.com/fr/docs/clients/javascript" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/Floor_price_Tracker_OpenSea",
+				"https://github.com/B-Mahdj/Floor_price_Tracker_OpenSea",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/floor_price_tracker.webp",
+			"logo": "resources/svgs/projects/lol_rush.svg",
+			"categories": ["Personal"]
+		},
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "LoL Rush",
+			"description": "3-tier web app to help League of Legends players create challenge with their friends and track their ranks.",
+			"tags":
+			[
+				{ "name": "TypeScript", "url": "https://www.typescriptlang.org/" },
+				{ "name": "NodeJS", "url": "https://nodejs.org/en/" },
+				{ "name": "Nuxt", "url": "https://nuxt.com/" },
+				{ "name": "MongoDb", "url": "https://www.mongodb.com/" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/LoLRush_Front",
+				"https://github.com/B-Mahdj/LoLRush_Front",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/lol_rush.webp",
+			"logo": "resources/svgs/projects/lol_rush.svg",
+			"categories": ["Personal"]
+		},
+		{
+			"date": 2023,
+			"type": "School Project",
+			"title": "Shard - C# Real-time strategy game",
+			"description": "The project was based on 6 versions with the teacher pushing each week / 2 weeks a new version with new tests. Each week we needed to code so that we could pass all the tests and score the max grade.",
+			"tags":
+			[
+				{ "name": "C#", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/" },
+				{ "name": "Web API", "url": "https://en.wikipedia.org/wiki/Web_API" },
+				{ "name": "Micro-Services", "url": "https://en.wikipedia.org/wiki/Microservices" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/C-sharp-final-project",
+				"https://github.com/B-Mahdj/C-sharp-final-project",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/shard_game.webp",
+			"logo": "resources/svgs/projects/shard_galaxy.svg",
+			"categories": ["School"]
+		},
+		{
+			"date": 2023,
+			"type": "School Project",
+			"title": "DevOps Pipeline Practice",
+			"description": "Group of 2 projects for school based on simple DevOps skills like CI/CD, IaC, etc. 1st project goal is to build an AMI and 2nd is to deploy an infrastructure on AWS using Terraform.",
+			"tags":
+			[
+				{ "name": "GitLab CI", "url": "https://docs.gitlab.com/ci/" },
+				{ "name": "Terraform", "url": "https://www.terraform.io/" },
+				{ "name": "Ansible", "url": "https://www.redhat.com/en/topics/automation/learning-ansible-tutorial" },
+				{ "name": "AWS", "url": "https://aws.amazon.com/?nc1=h_ls" }
+			],
+			"links":
+			[
+				"https://gitlab.com/dreamteam4592924",
+				"https://gitlab.com/dreamteam4592924",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/devops.webp",
+			"logo": "resources/svgs/projects/lol_rush.svg",
+			"categories": ["School"]
+		},
+		{
+			"date": 2023,
+			"type": "School Project",
+			"title": "Real Estate MicroServices WebApp",
+			"description": "Real estate web app using the microservices architecture with Docker Compose, SpringBoot, React & MySQL",
+			"tags":
+			[
+				{ "name": "Docker Compose", "url": "https://docs.docker.com/compose/" },
+				{ "name": "SpringBoot", "url": "https://spring.io/projects/spring-boot" },
+				{ "name": "React", "url": "https://react.dev/" },
+				{ "name": "MySQL", "url": "https://www.mysql.com/" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/Project_MicroServices",
+				"https://github.com/B-Mahdj/Project_MicroServices",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/les_anges_immobiliers.webp",
+			"logo": "resources/svgs/projects/lol_rush.svg",
+			"categories": ["School"]
+		},
+		{
+			"date": 2022,
+			"type": "Personal Project",
+			"title": "DCA Trading Bot Crypto",
+			"description": "Trading bot using Typescript and RPC connections to train on the blockchain using the Dollar-Cost Average strategy",
+			"tags":
+			[
+				{ "name": "TypeScript", "url": "https://www.typescriptlang.org/" },
+				{ "name": "NodeJS", "url": "https://nodejs.org/en/" },
+				{ "name": "Express", "url": "https://expressjs.com/fr/" },
+				{ "name": "Blockchain RPC", "url": "https://en.wikipedia.org/wiki/Remote_procedure_call" }
+			],
+			"links":
+			[
+				"https://github.com/B-Mahdj/Grid_Bot_Solana_USDC",
+				"https://github.com/B-Mahdj/Grid_Bot_Solana_USDC",
+				"none"
+			],
+			"video": "resources/videos/projects/trading_bot_dca.mp4",
+			"image": "resources/images/projects/trading_bot_dca.webp",
+			"logo": "resources/svgs/projects/trading_bot_dca.svg",
+			"categories": ["Personal"]
+		}
+	]
+}

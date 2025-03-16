@@ -1,0 +1,52 @@
+{
+	"experience":
+	[
+		{
+			"date": 2024,
+			"type": "Full Stack Software Engineer apprentice",
+			"title": "Sanofi",
+			"description": "Development and optimization of a multi-platform application (mobile, PC, tablet) aimed at automating and improving production flows in factories",
+			"tags":
+			[
+				{ "name": "Nest.js", "url": "https://nestjs.com/" },
+				{ "name": "Nuxt.js", "url": "https://nuxt.com/" },
+				{ "name": "Python", "url": "https://www.python.org/" },
+				{ "name": "MongoDB", "url": "https://www.mongodb.com" }
+			],
+			"link": "https://www.sanofi.com/",
+			"video": "resources/videos/experience/Sanofi.mp4",
+			"image": "resources/images/experience/sanofi.webp"
+		},
+		{
+			"date": 2021,
+			"type": "Full Stack Software Engineer apprentice",
+			"title": "Eviden",
+			"description": "3 years apprenticeship working on multiple subjects mainly : AWS Cost optimization, Overhaul of an expense management system, CI/CD pipelines",
+			"tags":
+			[
+				{ "name": "AWS", "url": "https://aws.amazon.com/" },
+				{ "name": "Java", "url": "https://www.java.com/" },
+				{ "name": "GitLab CI/CD", "url": "https://docs.gitlab.com/ci/" },
+				{ "name": "API", "url": "https://en.wikipedia.org/wiki/API" }
+			],
+			"link": "https://eviden.com/",
+			"video": "none",
+			"image": "resources/images/experience/eviden.webp"
+		},
+		{
+			"date": 2021,
+			"type": "Software Engineer Intern",
+			"title": "Edifxio",
+			"description": "3 months internship that improved the monitoring of the company on 12 projects by installing Logstash and the ELK stack.",
+			"tags":
+			[
+				{ "name": "Logstash", "url": "https://www.elastic.co/logstash" },
+				{ "name": "ElasticSearch", "url": "https://www.elastic.co/elasticsearch" },
+				{ "name": "Kibana", "url": "https://www.elastic.co/kibana" }
+			],
+			"link": "https://eviden.com/about-us/legacy-brands/edifixio/",
+			"video": "none",
+			"image": "resources/images/experience/edifixio.webp"
+		}
+	]
+}
